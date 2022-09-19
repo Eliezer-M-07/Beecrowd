@@ -1,2 +1,2 @@
 # Beecrowd
-Problemas beecrowd resolvidos em Python 
+Problemas beecrowd resolvidos em Python
